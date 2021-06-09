@@ -725,7 +725,7 @@ pclass,survived,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,boat,body,ho
 3,0,"Conlon, Mr. Thomas Henry",male,31,0,0,21332,7.7333,,Q,,,"Philadelphia, PA"
 3,0,"Connaghton, Mr. Michael",male,31,0,0,335097,7.75,,Q,,,"Ireland Brooklyn, NY"
 3,1,"Connolly, Miss. Kate",female,22,0,0,370373,7.75,,Q,13,,Ireland
-3,0,"Connolly, Miss. Kate",female,30,0,0,330972,7.6292,,Q,,,Ireland
+3,0,"Connolly , Miss. Kate",female,30,0,0,330972,7.6292,,Q,,,Ireland
 3,0,"Connors, Mr. Patrick",male,70.5,0,0,370369,7.75,,Q,,171,
 3,0,"Cook, Mr. Jacob",male,43,0,0,A/5 3536,8.05,,S,,,
 3,0,"Cor, Mr. Bartol",male,35,0,0,349230,7.8958,,S,,,Austria
@@ -923,7 +923,7 @@ pclass,survived,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,boat,body,ho
 3,0,"Keefe, Mr. Arthur",male,,0,0,323592,7.25,,S,A,,
 3,1,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,,0,0,9234,7.75,,Q,16,,
 3,1,"Kelly, Miss. Mary",female,,0,0,14312,7.75,,Q,D,,
-3,0,"Kelly, Mr. James",male,34.5,0,0,330911,7.8292,,Q,,70,
+3,0,"Kelly, Mr.  James",male,34.5,0,0,330911,7.8292,,Q,,70,
 3,0,"Kelly, Mr. James",male,44,0,0,363592,8.05,,S,,,
 3,1,"Kennedy, Mr. John",male,,0,0,368783,7.75,,Q,,,
 3,0,"Khalil, Mr. Betros",male,,1,0,2660,14.4542,,C,,,
